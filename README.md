@@ -10,4 +10,4 @@ In this application, you will be presented with questions and you will progress 
 # Screen Recording
 
 
-https://github.com/ahmettunahanbekdas/Questions-App/assets/97003033/ce38b75d-ef63-4335-b933-d38c4b836f62
+https://github.com/ahmettunahanbekdas/Questions-App/assets/97003033/bf777804-c7b0-4391-9e0a-f614c4f22ddc
