@@ -46,8 +46,8 @@ class ViewController: UIViewController {
     }
     func updateLabel(){
         questionLabel.text = questionsBrain.getQuestionLabel()
-        trueButton.backgroundColor = UIColor.systemPurple
-        falseButton.backgroundColor = UIColor.systemPurple
+        trueButton.backgroundColor = UIColor.black
+        falseButton.backgroundColor = UIColor.black
         scoreLabel.text = "SCORE: \(questionsBrain.scorePoint)"
         progressBar.progress = questionsBrain.updateProgressBar()
     }
