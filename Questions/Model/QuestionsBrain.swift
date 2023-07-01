@@ -57,4 +57,10 @@ struct QuetionsBrain{
         scorePoint += 1
     }
     
+    mutating  func updateProgressBar() -> Float {
+        let totalQuestions = questions.count
+        let progress = Float(questionNumber) / Float(totalQuestions)
+        return progress
+    }
+    
 }
